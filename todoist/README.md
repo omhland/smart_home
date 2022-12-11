@@ -1,7 +1,10 @@
 # Requirements
 - `python3.9` or higher.
-- `todoist-api-python`
+- `todoist-python`
 - `typeguard`
+
+The following should do the trick:
+`pip install todoist-python typeguard`
 
 # Adding a token file
 Creating a `.token` file:

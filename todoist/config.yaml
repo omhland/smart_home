@@ -1,0 +1,14 @@
+name: "TODOIST-ADD-ON"
+description: "TODOIST chore tracker add on"
+version: "1.0.0"
+slug: "todoist"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: before
+ports:
+  8000/tcp: 8000
