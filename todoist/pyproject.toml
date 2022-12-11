@@ -1,0 +1,2 @@
+[tool.poetry.dependencies]
+todoist-api-python = "^v2.0.0"
